@@ -29,7 +29,7 @@ All content is configured in `index.md` via front matter:
 
 | Field         | Description                          |
 |---------------|--------------------------------------|
-| `name`        | Display name                         |
+| `_name`        | Display name                         |
 | `description` | Bio text                             |
 | `profile`     | Profile image path                   |
 | `links`       | List of link buttons (title, url, icon) |

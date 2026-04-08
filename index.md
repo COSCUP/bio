@@ -3,7 +3,7 @@ layout: bio
 locale: en
 title: COSCUP Bio
 author: COSCUP
-name: "@COSCUP"
+_name: "@COSCUP"
 profile: /assets/img/profile.png
 description: |
   COSCUP is an annual conference for open source enthusiasts, organized by the
