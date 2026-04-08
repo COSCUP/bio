@@ -13,6 +13,18 @@
   --transition:      0.18s ease;
 }
 
+@media (prefers-color-scheme: light) {
+  :root {
+    --color-bg:        #f5f7fa;
+    --color-surface:   #ffffff;
+    --color-border:    #d1d9e0;
+    --color-text:      #1a202c;
+    --color-muted:     #4a5568;
+    --color-accent:    #3a6fdb;
+    --color-accent-h:  #2558c4;
+  }
+}
+
 /* ─── Base ───────────────────────────────────────────────────── */
 *, *::before, *::after {
   box-sizing: border-box;
