@@ -1,4 +1,5 @@
 baseurl: /bio
+favicon: /assets/img/favicon.svg
 
 # google_analytics: "G-XXXXXXXXXX"
 # google_tag_manager: "GTM-XXXXXXX"
