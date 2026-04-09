@@ -22,6 +22,9 @@ links:
   - title: "Want to hear more about COSCUP?"
     url: "https://app.formbricks.com/s/cmkhqoplq4g5kad01ix19rh6q"
     icon: "fa fa-heart-o"
+  - title: "Support COSCUP"
+    url: "https://coscup.org/2026/en/sponsorship"
+    icon: "fa-regular fa-handshake"
 socials:
   - title: "COSCUP's Mastodon"
     url: "https://floss.social/@COSCUP"
