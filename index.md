@@ -21,7 +21,7 @@ links:
     icon: "fa fa-desktop"
   - title: "Want to hear more about COSCUP?"
     url: "https://app.formbricks.com/s/cmkhqoplq4g5kad01ix19rh6q"
-    icon: "fa fa-heart-o"
+    icon: "fa-regular fa-heart"
   - title: "Support COSCUP"
     url: "https://coscup.org/2026/en/sponsorship"
     icon: "fa-regular fa-handshake"
